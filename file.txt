@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+ 
 Hello, master 
-=======
+
 Hello, branch1
->>>>>>> branch1
